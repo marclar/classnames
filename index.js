@@ -32,7 +32,7 @@
 			}
 		}
 
-		return classes.substr(1);
+		return classes.substr(1)+' ';
 	}
 
 	if (typeof module !== 'undefined' && module.exports) {

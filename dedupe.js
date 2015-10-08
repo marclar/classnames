@@ -82,7 +82,7 @@
 			return list.join(' ');
 		}
 
-		return _classNames;
+		return _classNames+' ';
 	})();
 
 	if (typeof module !== 'undefined' && module.exports) {
